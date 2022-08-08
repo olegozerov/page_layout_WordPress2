@@ -119,3 +119,71 @@ h2.title {
     margin: 0 auto;
     margin-top: 4.49px;
 }
+
+.waiting {
+    height: 607px;
+    margin: 0 auto;
+    background-color: #EFEFEF;
+    padding: 88px 0 75px 0;
+}
+
+.waiting .waiting_header {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #252525;
+}
+
+.waiting .waiting_divider {
+    width: 220px;
+    height: 7px;
+    margin: 0 auto;
+    margin-top: 18px;
+    background: #F9BF3B;   
+}
+
+.waiting .waiting_subheader {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 20px;
+    margin-top: 18.5px;
+    text-align: center;
+    color: #4A4A4A;
+}
+
+.waiting .waiting_wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 45.5px;
+
+}
+
+.waiting .waiting_wrapper .waiting_item {
+    text-align: center;
+    width: 342px;
+}
+
+.waiting .waiting_wrapper .waiting_img {
+    width: 100%;
+}
+
+.waiting .waiting_wrapper .waiting_description {
+    margin-top: 26px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 21px;
+    text-align: center;
+    color: #4A4A4A;
+}
+
+
+
+
