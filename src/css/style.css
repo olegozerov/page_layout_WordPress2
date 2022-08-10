@@ -404,4 +404,9 @@ h2.title {
     line-height: 21px;
     text-align: center;
     color: #888888;
+
+}
+
+.footer .footer_tel a {
+    text-decoration: none;
 }
