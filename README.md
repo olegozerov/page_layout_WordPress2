@@ -1,2 +1,2 @@
 # page_layout_WordPress2
-Верстка страницы с макета Figma - WordPress2 (HTML5, CCS3) 
+Верстка страницы с макета Figma - wordpress2 (HTML5, CCS3) 
